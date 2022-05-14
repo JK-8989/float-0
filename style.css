@@ -27,3 +27,8 @@ p {
 #bottom {
   margin-bottom: 100px;
 }
+#vitamin-K,
+#magnesium,
+#vitamin-c {
+  font-size: 2em;
+}
