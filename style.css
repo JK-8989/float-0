@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  font-size: 3.5em;
+  margin-top: 70px;
+  color: darkgreen;
+  margin-bottom: 80px;
+}
+.container {
+  width: 600px;
+  margin: auto;
+}
+img.cucumber {
+  width: 280px;
+  margin-top: 100px;
+  float: left;
+  shape-margin: 10px;
+  shape-outside: 
+    polygon( 24px 801px, 14px 466px, 48px 173px, 83px 139px, 133px 123px, 196px 146px, 228px 194px, 227px 232px, 259px 264px, 267px 311px, 249px 376px, 218px 392px, 217px 436px, 196px 468px, 189px 483px, 235px 499px, 259px 543px, 259px 591px, 231px 631px, 206px 650px, 220px 708px, 188px 736px, 215px 776px, 235px 836px, 223px 874px, 189px 908px, 103px 915px);
+
+}
+p {
+  line-height: 2;
+  /* text-align: justify; */
+  margin: 30px 0;
+  font-size: 0.9em;
+}
+#bottom {
+  margin-bottom: 100px;
+}
